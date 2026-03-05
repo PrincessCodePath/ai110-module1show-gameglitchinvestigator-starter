@@ -49,6 +49,7 @@ I found that this activity reinforces that just because code runs does not mean 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![image alt](https://github.com/PrincessCodePath/ai110-module1show-gameglitchinvestigator-starter/blob/847f402151877afc7f1a4ebb49a10b84adc0649b/WinningGame.png)
 
 ## 🚀 Stretch Features
 
